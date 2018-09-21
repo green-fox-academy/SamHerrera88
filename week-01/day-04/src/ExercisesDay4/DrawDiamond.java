@@ -24,7 +24,6 @@ public class DrawDiamond {
             }
         } else {
             for (int i = numOfLines / 2+1; i < numOfLines; i++){
-                line = " " + line;
-                
-            }
-}
+//                line = " " + line;
+
+            }}}}

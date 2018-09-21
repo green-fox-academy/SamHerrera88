@@ -2,38 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8e489e8-2fb3-4e50-bb4e-d3c286adf153" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/AnimalsAndLegs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/AverageOfInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/Bmi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/CodingHours.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/ConditionalVariableMutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/CountFromTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/Cubiod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/DefineBasicInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/DrawPyramid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/DrawTriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/FavoriteNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/HelloOthers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/HelloUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/HolaComoEstas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/HumptyDumpty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/IWontCheatOnExams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/IntroduceYourself.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/MileToKm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/MultipicationTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/OddEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/OneTwoAlot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/PartyIndicator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/PrintBigger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/PrintEven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/SecondInADay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/TwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/VariableMutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/swap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/DrawDiagonal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/FindTheSubString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/GuessTheNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisesDay4/ParametricAverage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/day-04/ExercisesDay4/DrawPyramid.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day-04/ExercisesDay4/DrawPyramid.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExercisesDay4/DrawPyramid.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercisesDay4/DrawPyramid.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,67 +28,28 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="7965" />
+          <entry key="java" value="9342" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="7965" />
+          <entry key="JAVA" value="9342" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="31" />
+          <entry key="java" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="31" />
+          <entry key="JAVA" value="36" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/PartyIndicator.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/ConditionalVariableMutation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="327">
-              <caret line="47" column="49" lean-forward="true" selection-start-line="47" selection-start-column="49" selection-end-line="47" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/IWontCheatOnExams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/PrintEven.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/MultipicationTable.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -141,6 +78,15 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawPyramid.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawTriangle.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="357">
@@ -150,19 +96,50 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawPyramid.java">
+        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+            <state relative-caret-position="293">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java">
+        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/FindTheSubString.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+            <state relative-caret-position="323">
+              <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+              <folding>
+                <element signature="e#465#466#0" expanded="true" />
+                <element signature="e#504#505#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawDiagonal.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/GuessTheNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/ParametricAverage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -215,8 +192,12 @@
         <option value="$PROJECT_DIR$/src/ExercisesDay4/CountFromTo.java" />
         <option value="$PROJECT_DIR$/src/ExercisesDay4/FizzBuzz.java" />
         <option value="$PROJECT_DIR$/src/ExercisesDay4/DrawTriangle.java" />
-        <option value="$PROJECT_DIR$/src/ExercisesDay4/DrawPyramid.java" />
         <option value="$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java" />
+        <option value="$PROJECT_DIR$/src/ExercisesDay4/DrawDiagonal.java" />
+        <option value="$PROJECT_DIR$/src/ExercisesDay4/GuessTheNumber.java" />
+        <option value="$PROJECT_DIR$/src/ExercisesDay4/ParametricAverage.java" />
+        <option value="$PROJECT_DIR$/src/ExercisesDay4/DrawPyramid.java" />
+        <option value="$PROJECT_DIR$/src/ExercisesDay4/FindTheSubString.java" />
       </list>
     </option>
   </component>
@@ -226,8 +207,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="254" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="132" />
+    <option name="y" value="8" />
     <option name="width" value="2434" />
     <option name="height" value="1642" />
   </component>
@@ -269,7 +251,7 @@
     <property name="SearchEverywhereHistoryKey" value="ho&#9;RUN_CONFIGURATION&#9;HolaMundo" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537537480514" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537544515619" />
     <property name="last_opened_file_path" value="C:/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -285,9 +267,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DrawPyramid">
-    <configuration name="CountFromTo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesDay4.CountFromTo" />
+  <component name="RunManager" selected="Application.FindTheSubString">
+    <configuration name="DrawDiagonal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesDay4.DrawDiagonal" />
       <module name="day-04" />
       <extension name="coverage">
         <pattern>
@@ -312,8 +294,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawTriangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesDay4.DrawTriangle" />
+    <configuration name="FindTheSubString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesDay4.FindTheSubString" />
       <module name="day-04" />
       <extension name="coverage">
         <pattern>
@@ -325,8 +307,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FizzBuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesDay4.FizzBuzz" />
+    <configuration name="GuessTheNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesDay4.GuessTheNumber" />
       <module name="day-04" />
       <extension name="coverage">
         <pattern>
@@ -338,8 +320,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultipicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercisesDay4.MultipicationTable" />
+    <configuration name="ParametricAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExercisesDay4.ParametricAverage" />
       <module name="day-04" />
       <extension name="coverage">
         <pattern>
@@ -352,19 +334,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.MultipicationTable" />
-      <item itemvalue="Application.CountFromTo" />
-      <item itemvalue="Application.FizzBuzz" />
-      <item itemvalue="Application.DrawTriangle" />
       <item itemvalue="Application.DrawPyramid" />
+      <item itemvalue="Application.DrawDiagonal" />
+      <item itemvalue="Application.GuessTheNumber" />
+      <item itemvalue="Application.ParametricAverage" />
+      <item itemvalue="Application.FindTheSubString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindTheSubString" />
         <item itemvalue="Application.DrawPyramid" />
-        <item itemvalue="Application.DrawTriangle" />
-        <item itemvalue="Application.FizzBuzz" />
-        <item itemvalue="Application.CountFromTo" />
-        <item itemvalue="Application.MultipicationTable" />
+        <item itemvalue="Application.ParametricAverage" />
+        <item itemvalue="Application.GuessTheNumber" />
+        <item itemvalue="Application.DrawDiagonal" />
       </list>
     </recent_temporary>
   </component>
@@ -378,15 +360,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1537435013028</updated>
-      <workItem from="1537435018764" duration="38703000" />
+      <workItem from="1537435018764" duration="43948000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38703000" />
+    <option name="totallyTimeSpent" value="43948000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="127" y="0" width="1217" height="821" extended-state="1" />
+    <frame x="66" y="4" width="1217" height="821" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
@@ -658,13 +640,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/MultipicationTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/CountFromTo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -672,10 +647,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/MultipicationTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/FizzBuzz.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/GuessTheNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="65" selection-start-line="11" selection-start-column="65" selection-end-line="11" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/ParametricAverage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawDiagonal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" lean-forward="true" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
         </state>
       </provider>
     </entry>
@@ -689,14 +692,25 @@
     <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawPyramid.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="27" column="16" selection-start-line="27" selection-start-column="16" selection-end-line="27" selection-end-column="16" />
+        <state relative-caret-position="293">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/FindTheSubString.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
+          <folding>
+            <element signature="e#465#466#0" expanded="true" />
+            <element signature="e#504#505#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

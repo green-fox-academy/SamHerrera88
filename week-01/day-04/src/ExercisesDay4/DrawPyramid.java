@@ -9,23 +9,14 @@ public class DrawPyramid {
     // *******
     // The pyramid should have as many lines as the number was
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        int numOfLines = input.nextInt();
-        if (numOfLines > 0) {
-            //First Line
-            String line = " ";
-            for (int i = 1; i < numOfLines; i++) {
-                line += " ";
+        for(int i=0;i<5;i++) {
+            for(int j=0;j<5-i;j++) {
+                System.out.print(" ");
             }
-            line += "*";
-            System.out.println(line);
-            for (int i = 1; i < numOfLines; i++) {
-                line += "**";
-                line = line.startsWith(" ") ? line.substring(1) : line;
-                System.out.println(line);
+            for(int k=0;k<=i;k++) {
+                System.out.print("$ ");
             }
-        } else {
-            System.out.println("Please give me s number higher than 0");
+            System.out.println();
         }
-    }
-}
+
+    }}
