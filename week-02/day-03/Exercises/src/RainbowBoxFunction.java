@@ -13,7 +13,7 @@ public class  RainbowBoxFunction {
         // Create a loop that fills the canvas with rainbow colored squares.
         String[] rainbowTable = {"Violet","Indigo","Blue","Green","Yellow","Orange","Red"};
         int tableLooper = 0;
-        for (int size = 304; size >0; size-=21) {
+        for (int size = 300; size >0; size-=21) {
             rainbowSquare(size, rainbowTable[tableLooper%7], graphics);
             tableLooper++;
         }
@@ -37,7 +37,7 @@ public class  RainbowBoxFunction {
         rainbowMap.put("Red", Red);
 
         graphics.setColor(new Color(rainbowMap.get(color)[0],rainbowMap.get(color)[1],rainbowMap.get(color)[2]));
-        graphics.fillRect((304-size)/2, (304-size)/2, size, size);
+        graphics.fillRect((300-size)/2, (300-size)/2, size, size);
 
     }
 
