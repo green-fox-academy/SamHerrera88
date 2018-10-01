@@ -2,20 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83ef5944-e59b-47ac-bb46-aa238ff35d55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/LineProjects.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/EnvelopStar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/LinePlay.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/LinePlayQuarters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/Triangles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-03/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/day-02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/day-03.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/ExercisesDay4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/day-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/ProjectDay04.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/EnvelopStar$ImagePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/EnvelopStar.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlay$ImagePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlay.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlayQuarters$ImagePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlayQuarters.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/Triangles$ImagePanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/Triangles.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/ExamExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/Seconds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/TrialExam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/out/production/day-04/ExercisesDay4/FindTheSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/out/production/day-04/ExercisesDay4/FindTheSubString.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/Triangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/Triangles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-01/out/production/Doubling/Colors.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-01/out/production/Doubling/Colors.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-03/Exercises/src/BoxInTheCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03/Exercises/src/BoxInTheCenter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-03/Exercises/src/FourRetangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03/Exercises/src/FourRetangles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-03/out/production/Exercises/BoxInTheCenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03/out/production/Exercises/BoxInTheCenter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-03/out/production/Exercises/FourRetangles$ImagePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03/out/production/Exercises/FourRetangles$ImagePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-03/out/production/Exercises/FourRetangles.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03/out/production/Exercises/FourRetangles.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,11 +62,12 @@
     <session id="-917811879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -63,7 +98,7 @@
         <entry file="file://$PROJECT_DIR$/src/SimpleReplace.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -95,7 +130,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Reverse.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
@@ -108,7 +143,7 @@
         <entry file="file://$PROJECT_DIR$/src/SolarSystem.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="272">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -116,11 +151,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MatchingMaking.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="34">
-              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -158,9 +193,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1358" />
-    <option name="width" value="1390" />
-    <option name="height" value="1756" />
+    <option name="x" value="132" />
+    <option name="y" value="8" />
+    <option name="width" value="2434" />
+    <option name="height" value="1642" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -170,6 +206,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -186,14 +224,13 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538056723772" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538389112321" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day-03" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -207,7 +244,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SolarSystem">
+  <component name="RunManager" selected="Application.MatchingMaking">
     <configuration name="MatchingMaking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MatchingMaking" />
       <module name="day-02" />
@@ -252,8 +289,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SolarSystem" />
         <item itemvalue="Application.MatchingMaking" />
+        <item itemvalue="Application.SolarSystem" />
         <item itemvalue="Application.Matchmaking" />
         <item itemvalue="Application.Reverse" />
         <item itemvalue="Application.TodoPrint" />
@@ -273,17 +310,18 @@
       <workItem from="1537869865418" duration="11083000" />
       <workItem from="1537949087141" duration="102000" />
       <workItem from="1538051349422" duration="2352000" />
+      <workItem from="1538386511046" duration="1592000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13537000" />
+    <option name="totallyTimeSpent" value="15129000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22600152" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.111866966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -322,17 +360,10 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
-    <entry file="file://$PROJECT_DIR$/src/MatchingMaking.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SimpleReplace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
@@ -357,20 +388,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Reverse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SolarSystem.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Reverse.java">
+    <entry file="file://$PROJECT_DIR$/src/MatchingMaking.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="34">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
