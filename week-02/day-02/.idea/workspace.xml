@@ -2,54 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83ef5944-e59b-47ac-bb46-aa238ff35d55" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/day-02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/day-03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/ExercisesDay4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/day-05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/ProjectDay04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/EnvelopStar$ImagePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/EnvelopStar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlay$ImagePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlayQuarters$ImagePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlayQuarters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/Triangles$ImagePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/Triangles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/ExamExercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/Seconds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/TrialExam.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/out/production/day-04/ExercisesDay4/FindTheSubString.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/out/production/day-04/ExercisesDay4/FindTheSubString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/Triangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/Triangles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-01/out/production/Doubling/Colors.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-01/out/production/Doubling/Colors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProjectDay04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/Seconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/Seconds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/out/production/ExamExercises/CountAs.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/out/production/ExamExercises/Seconds.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/out/production/ExamExercises/Seconds.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -62,7 +22,7 @@
     <session id="-917811879">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.5" value="1" />
@@ -229,7 +189,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538389112321" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538406556891" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../day-03" />
   </component>
   <component name="RunDashboard">
@@ -310,16 +270,15 @@
       <workItem from="1537869865418" duration="11083000" />
       <workItem from="1537949087141" duration="102000" />
       <workItem from="1538051349422" duration="2352000" />
-      <workItem from="1538386511046" duration="1592000" />
+      <workItem from="1538386511046" duration="2773000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15129000" />
+    <option name="totallyTimeSpent" value="16310000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.111866966" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -331,7 +290,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30198675" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30198675" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39942113" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />

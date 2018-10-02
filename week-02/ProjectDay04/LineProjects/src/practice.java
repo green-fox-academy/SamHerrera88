@@ -9,8 +9,6 @@ public class practice {
         int homeTeam;
         int awayTeam;
 
-        if (int )
-
 
     }}
 

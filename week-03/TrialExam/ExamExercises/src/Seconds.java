@@ -12,6 +12,5 @@ public class Seconds {
         for (int i = 1; i < originalList.length; i += 2) {
             System.out.println(originalList[i]);
         }
-
     }
 }
