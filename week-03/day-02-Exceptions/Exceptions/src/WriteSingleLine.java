@@ -20,6 +20,7 @@ public class WriteSingleLine {
             Path filePath = Paths.get("Testing.txt");
             Files.write(filePath, content);
 
+
         } catch (Exception e) {
             System.out.println("Uh-oh, could not write the file!");
         }

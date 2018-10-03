@@ -2,28 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="32dbff4a-1b05-4e51-98e8-3ed0ba291847" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LineProjects/src/Practicing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/Exceptions.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/CountLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/DivideByZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/PrintAllLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/WriteSingleLine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/day-02-Exceptions.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/WritingMultipleLines.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LineProjects/src/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/LineProjects/src/practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LineProjects/practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LineProjects/practice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/Seconds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/Seconds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/out/production/ExamExercises/CountAs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/out/production/ExamExercises/Seconds.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/out/production/ExamExercises/Seconds.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/WriteSingleLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/WriteSingleLine.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -42,7 +24,7 @@
     <session id="2102599396">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.opened" value="2" />
@@ -218,7 +200,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538489448258" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538493446974" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -329,7 +311,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32980132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
