@@ -2,16 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00b2148b-6a6f-42f2-99fa-b4eb849c8611" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/RecursionExercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/Bunnies.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/BunniesToo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/Counter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/Power.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/String.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/Sumdigit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-03-Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03-Classes/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionExercises/src/Bunnies.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionExercises/src/Bunnies.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionExercises/src/Power.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionExercises/src/Power.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionExercises/src/String.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionExercises/src/Sumdigit.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionExercises/src/Sumdigit.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="903" />
+          <entry key="java" value="1418" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="903" />
+          <entry key="JAVA" value="1418" />
         </counts>
       </usages-collector>
     </session>
@@ -68,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+            <state relative-caret-position="238">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="e#163#164#0" expanded="true" />
                 <element signature="e#209#210#0" expanded="true" />
@@ -81,8 +78,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Sumdigit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+            <state relative-caret-position="306">
+              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="e#303#304#0" expanded="true" />
                 <element signature="e#365#366#0" expanded="true" />
@@ -91,11 +88,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Power.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="289">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
               <folding>
                 <element signature="e#291#292#0" expanded="true" />
                 <element signature="e#340#341#0" expanded="true" />
@@ -107,8 +104,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Bunnies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
+            <state relative-caret-position="221">
+              <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
               <folding>
                 <element signature="e#262#263#0" expanded="true" />
                 <element signature="e#298#299#0" expanded="true" />
@@ -130,11 +127,15 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RecursionExercises/src/String.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Strings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+            <state relative-caret-position="187">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+              <folding>
+                <element signature="e#231#232#0" expanded="true" />
+                <element signature="e#267#268#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -154,13 +155,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/RecursionExercises/src/Sumdigit.java" />
         <option value="$PROJECT_DIR$/RecursionExercises/src/Counter.java" />
-        <option value="$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java" />
-        <option value="$PROJECT_DIR$/RecursionExercises/src/Power.java" />
-        <option value="$PROJECT_DIR$/RecursionExercises/src/Bunnies.java" />
         <option value="$PROJECT_DIR$/RecursionExercises/src/BunniesToo.java" />
         <option value="$PROJECT_DIR$/RecursionExercises/src/String.java" />
+        <option value="$PROJECT_DIR$/RecursionExercises/src/Strings.java" />
+        <option value="$PROJECT_DIR$/RecursionExercises/src/Bunnies.java" />
+        <option value="$PROJECT_DIR$/RecursionExercises/src/Power.java" />
+        <option value="$PROJECT_DIR$/RecursionExercises/src/Sumdigit.java" />
+        <option value="$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java" />
       </list>
     </option>
   </component>
@@ -206,7 +208,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538663836088" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538668326358" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -223,7 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BunniesToo">
+  <component name="RunManager" selected="Application.Power">
     <configuration name="Bunnies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Bunnies" />
       <module name="RecursionExercises" />
@@ -238,8 +240,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberAdder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="NumberAdder" />
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Counter" />
       <module name="RecursionExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -252,27 +254,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sumdigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Sumdigit" />
+    <configuration name="Strings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Strings" />
       <module name="RecursionExercises" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NumberAdder" />
-      <item itemvalue="Application.Sumdigit" />
-      <item itemvalue="Application.Power" />
       <item itemvalue="Application.Bunnies" />
       <item itemvalue="Application.BunniesToo" />
+      <item itemvalue="Application.Strings" />
+      <item itemvalue="Application.Counter" />
+      <item itemvalue="Application.Power" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Power" />
+        <item itemvalue="Application.Counter" />
+        <item itemvalue="Application.Strings" />
         <item itemvalue="Application.BunniesToo" />
         <item itemvalue="Application.Bunnies" />
-        <item itemvalue="Application.Sumdigit" />
-        <item itemvalue="Application.Power" />
-        <item itemvalue="Application.NumberAdder" />
       </list>
     </recent_temporary>
   </component>
@@ -286,15 +288,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538640274384</updated>
-      <workItem from="1538640278960" duration="11010000" />
+      <workItem from="1538640278960" duration="15155000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11010000" />
+    <option name="totallyTimeSpent" value="15155000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="885" extended-state="7" />
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -348,8 +350,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="e#163#164#0" expanded="true" />
             <element signature="e#209#210#0" expanded="true" />
@@ -359,8 +361,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Sumdigit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="e#303#304#0" expanded="true" />
             <element signature="e#365#366#0" expanded="true" />
@@ -368,24 +370,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Power.java">
+    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding>
-            <element signature="e#291#292#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Bunnies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="39" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-          <folding>
-            <element signature="e#262#263#0" expanded="true" />
-            <element signature="e#298#299#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#267#268#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -401,10 +392,25 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/String.java">
+    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Bunnies.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        <state relative-caret-position="221">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="e#262#263#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#291#292#0" expanded="true" />
+            <element signature="e#340#341#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

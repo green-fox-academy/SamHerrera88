@@ -4,17 +4,16 @@ public class Sumdigit {
     // divide (/) by 10 removes the rightmost digit (126 / 10 is 12)
 
     public static void main(String[] args) {
-        System.out.println(factorialWithRecursion(500));
+        System.out.println(sumOfDigit(500));
     }
 
-    public static int factorialWithRecursion(int n) {
+    public static int sumOfDigit(int n) {
         int whatsLeft = n%10;
 
         if (n == 0) {
             return whatsLeft;
         } else {
-            return whatsLeft+factorialWithRecursion(n/10);
+            return whatsLeft+sumOfDigit(n/10);
         }
     }
 }
-
