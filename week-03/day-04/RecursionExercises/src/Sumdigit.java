@@ -1,4 +1,20 @@
-package PACKAGE_NAME;
-
 public class Sumdigit {
+    // Given a non-negative int n, return the sum of its digits recursively (no loops).
+    // Note that mod (%) by 10 yields the rightmost digit (126 % 10 is 6), while
+    // divide (/) by 10 removes the rightmost digit (126 / 10 is 12)
+
+    public static void main(String[] args) {
+        System.out.println(factorialWithRecursion(500));
+    }
+
+    public static int factorialWithRecursion(int n) {
+        int whatsLeft = n%10;
+
+        if (n == 0) {
+            return whatsLeft;
+        } else {
+            return whatsLeft+factorialWithRecursion(n/10);
+        }
+    }
 }
+
