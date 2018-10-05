@@ -5,11 +5,12 @@ public class Refactorio {
         int n = 7;
         System.out.println(refactorio(n));
     }
-    public static int refactorio(int n){
-        if (n ==1){
+
+    public static int refactorio(int n) {
+        if (n == 1) {
             return 1;
         } else {
-            return refactorio(n-1)*n;
+            return refactorio(n - 1) * n;
         }
     }
 }

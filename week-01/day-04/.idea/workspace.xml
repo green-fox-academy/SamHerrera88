@@ -2,25 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8e489e8-2fb3-4e50-bb4e-d3c286adf153" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-04/RecursionExercises/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-04/RecursionExercises/src/Refactorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-04/RecursionExercises/src/StringsThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-04/RecursionExercises/src/StringsToo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/Fractals/Fractals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/Fractals/src/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/Fractals/src/Squares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/day-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../week-03/day-05/Fractals/src/Hexagons.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/day-04/ExercisesDay4/DrawDiamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/day-04/ExercisesDay4/DrawDiamond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-03/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/day-04/RecursionExercises/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-04/RecursionExercises/src/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/day-04/out/production/RecursionExercises/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-04/out/production/RecursionExercises/Strings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-04/RecursionExercises/src/Refactorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-04/RecursionExercises/src/Refactorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-05/Fractals/src/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-05/Fractals/src/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-05/Fractals/src/Squares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-05/Fractals/src/Squares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-05/out/production/Fractals/Carpet$ImagePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-05/out/production/Fractals/Carpet$ImagePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-05/out/production/Fractals/Carpet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-05/out/production/Fractals/Carpet.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -33,7 +23,7 @@
     <session id="-882924010">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.6" value="1" />
@@ -112,7 +102,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-81">
+            <state relative-caret-position="119">
               <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
             </state>
           </provider>
@@ -261,7 +251,7 @@
     <property name="SearchEverywhereHistoryKey" value="ho&#9;RUN_CONFIGURATION&#9;HolaMundo" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538733300109" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538746838887" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -372,18 +362,17 @@
       <updated>1537435013028</updated>
       <workItem from="1537435018764" duration="45886000" />
       <workItem from="1538384871866" duration="2249000" />
-      <workItem from="1538727122140" duration="1533000" />
+      <workItem from="1538727122140" duration="1538000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49668000" />
+    <option name="totallyTimeSpent" value="49673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="66" y="4" width="1217" height="821" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30543572" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30543572" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -393,7 +382,7 @@
       <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299566" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3299566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3299566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -692,7 +681,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExercisesDay4/DrawDiamond.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-81">
+        <state relative-caret-position="119">
           <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
         </state>
       </provider>

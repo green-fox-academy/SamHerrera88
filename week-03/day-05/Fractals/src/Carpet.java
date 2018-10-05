@@ -1,5 +1,8 @@
 import javax.swing.*;
 import java.awt.*;
+import java.util.Random;
+import java.util.Scanner;
+
 import static javax.swing.WindowConstants.EXIT_ON_CLOSE;
 
 public class Carpet {
@@ -8,10 +11,19 @@ public class Carpet {
         int x = WIDTH / 2 - size / 2;
         int y = HEIGHT / 2 - size / 2;
         drawFractal(x, y, size, graphics);
+
     }
 
     public static void fillRect(int x, int y, int size, Graphics graphics) {
         graphics.fillRect(x, y, size, size);
+        Random rand = new Random();                    //Random + Scanner
+        Scanner in = new Scanner(System.in);
+
+        float red = rand.nextFloat();
+        float green = rand.nextFloat();
+        float blue = rand.nextFloat();                     //Random Colour
+        Color randomColor = new Color(red, green, blue);
+        graphics.setColor(randomColor);
     }
 
     public static void drawFractal(int x, int y, int size, Graphics graphics) {
@@ -28,8 +40,8 @@ public class Carpet {
         }
     }
 
-    static int WIDTH = 420;
-    static int HEIGHT = 443;
+    static int WIDTH = 500;
+    static int HEIGHT = 500;
 
     public static void main(String[] args) {
         JFrame jFrame = new JFrame("Drawing");
@@ -38,6 +50,7 @@ public class Carpet {
         jFrame.add(new ImagePanel());
         jFrame.setLocationRelativeTo(null);
         jFrame.setVisible(true);
+
     }
 
     static class ImagePanel extends JPanel {

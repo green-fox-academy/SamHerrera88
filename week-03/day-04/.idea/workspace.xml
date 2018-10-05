@@ -2,25 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="00b2148b-6a6f-42f2-99fa-b4eb849c8611" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/Refactorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/StringsThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RecursionExercises/src/StringsToo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/Fractals/Fractals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Squares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/day-05.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/out/production/day-04/ExercisesDay4/DrawDiamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/out/production/day-04/ExercisesDay4/DrawDiamond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/DrawDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/DrawDiamond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RecursionExercises/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionExercises/src/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/RecursionExercises/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/RecursionExercises/Strings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RecursionExercises/src/Refactorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/RecursionExercises/src/Refactorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-05/Fractals/src/Squares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Squares.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +46,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -129,8 +114,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Strings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" selection-start-line="5" selection-start-column="40" selection-end-line="6" />
+            <state relative-caret-position="85">
+              <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -153,11 +138,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Refactorio.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -165,8 +150,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Fibonacci.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="353">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -207,9 +192,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="132" />
-    <option name="y" value="8" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="352" />
     <option name="width" value="2434" />
     <option name="height" value="1642" />
   </component>
@@ -250,7 +234,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538733299981" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538748228566" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -330,15 +314,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538640274384</updated>
-      <workItem from="1538640278960" duration="20634000" />
+      <workItem from="1538640278960" duration="22130000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20634000" />
+    <option name="totallyTimeSpent" value="22130000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <frame x="-6" y="-6" width="1381" height="885" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -390,25 +374,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java">
+    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Strings.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#209#210#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Sumdigit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding>
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#365#366#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="85">
+          <caret line="5" column="40" lean-forward="true" selection-start-line="5" selection-start-column="40" selection-end-line="5" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -445,17 +414,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Fibonacci.java">
+    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Sumdigit.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" selection-start-line="5" selection-start-column="40" selection-end-line="6" />
+        <state relative-caret-position="306">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
+          <folding>
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#365#366#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -475,8 +441,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Refactorio.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="37" lean-forward="true" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/Fibonacci.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecursionExercises/src/NumberAdder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#209#210#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

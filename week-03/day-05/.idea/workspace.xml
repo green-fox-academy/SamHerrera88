@@ -2,25 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="14c4fe30-5a13-49b2-bd8b-c9d9785bbff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Fibonacci.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Refactorio.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-04/RecursionExercises/src/StringsThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-04/RecursionExercises/src/StringsToo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fractals/Fractals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fractals/src/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fractals/src/Squares.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/day-05.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03-Classes/ClassesExercises/.idea/ClassesExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03-Classes/ClassesExercises/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03-Classes/ClassesExercises/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03-Classes/ClassesExercises/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-03-Classes/ClassesExercises/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fractals/src/Hexagons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fractals/src/Tree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/out/production/day-04/ExercisesDay4/DrawDiamond.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/out/production/day-04/ExercisesDay4/DrawDiamond.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/DrawDiamond.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/DrawDiamond.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02-Exceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02-Exceptions/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-03-Classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03-Classes/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-04/out/production/RecursionExercises/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/out/production/RecursionExercises/Strings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Refactorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Refactorio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fractals/src/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fractals/src/Carpet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fractals/src/Squares.java" beforeDir="false" afterPath="$PROJECT_DIR$/Fractals/src/Squares.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fractals/Carpet$ImagePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fractals/Carpet$ImagePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Fractals/Carpet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Fractals/Carpet.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,48 +37,73 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="2" />
+          <entry key="java" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="2" />
+          <entry key="JAVA" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="539" />
+          <entry key="java" value="1356" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="539" />
+          <entry key="JAVA" value="1356" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Fractals/src/Carpet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="136">
+              <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               <folding>
-                <element signature="e#334#335#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Fractals/src/Squares.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fractals/src/Hexagons.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="98">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fractals/src/Squares.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Fractals/src/Tree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#742#743#0" expanded="true" />
+                <element signature="e#792#793#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -102,9 +125,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Fractals/src/Fractals.java" />
-        <option value="$PROJECT_DIR$/Fractals/src/Carpet.java" />
         <option value="$PROJECT_DIR$/Fractals/src/Sqaures.java" />
         <option value="$PROJECT_DIR$/Fractals/src/Squares.java" />
+        <option value="$PROJECT_DIR$/Fractals/src/Hexagons.java" />
+        <option value="$PROJECT_DIR$/Fractals/src/Tree.java" />
+        <option value="$PROJECT_DIR$/Fractals/src/Carpet.java" />
       </list>
     </option>
   </component>
@@ -115,8 +140,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="132" />
-    <option name="y" value="8" />
+    <option name="x" value="352" />
     <option name="width" value="2434" />
     <option name="height" value="1642" />
   </component>
@@ -157,9 +181,9 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538733300048" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538748228627" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week-01/day-04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day-03-Classes" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -175,7 +199,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Tree">
     <configuration name="Carpet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Carpet" />
       <module name="Fractals" />
@@ -183,9 +207,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Hexagons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hexagons" />
+      <module name="Fractals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Squares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Squares" />
+      <module name="Fractals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tree" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tree" />
+      <module name="Fractals" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Carpet" />
+      <item itemvalue="Application.Squares" />
+      <item itemvalue="Application.Hexagons" />
+      <item itemvalue="Application.Tree" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tree" />
+        <item itemvalue="Application.Hexagons" />
         <item itemvalue="Application.Carpet" />
+        <item itemvalue="Application.Squares" />
       </list>
     </recent_temporary>
   </component>
@@ -199,12 +253,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1538726208007</updated>
-      <workItem from="1538726213258" duration="5163000" />
+      <workItem from="1538726213258" duration="14776000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5163000" />
+    <option name="totallyTimeSpent" value="14776000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
@@ -248,21 +302,42 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Fractals/src/Carpet.java">
+    <entry file="file://$PROJECT_DIR$/Fractals/src/Tree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="136">
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding>
-            <element signature="e#334#335#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
+            <element signature="imports" expanded="true" />
+            <element signature="e#742#743#0" expanded="true" />
+            <element signature="e#792#793#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Fractals/src/Squares.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        <state relative-caret-position="306">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractals/src/Hexagons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Fractals/src/Carpet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
