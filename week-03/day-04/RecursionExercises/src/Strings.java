@@ -3,20 +3,15 @@ public class Strings {
     // lowercase 'x' chars have been changed to 'y' chars.
 
     public static void main(String[] args) {
-        System.out.println(changeXWitY("Whx So Serious?"));
+        String name = "Whx So Serious?";
+        System.out.println(changeXWitY(name));
     }
 
-    public static String changeXWitY(String word) {
-        String helper = "";
-        if (word.length() == 0) {
-            return "";
+    public static String changeXWitY(String name) {
+        if (!name.contains("x")) {
+            return name;
         } else {
-            char lastChar = word.charAt(word.length() - 1);
-            if (lastChar == 'x') {
-                return changeXWitY(word.substring(0, word.length() - 1)) + "y";
-            } else {
-                return changeXWitY(word.substring(0, word.length() - 1)) + lastChar;
-            }
+            return changeXWitY(name.replaceFirst("x", "y"));
         }
     }
 }

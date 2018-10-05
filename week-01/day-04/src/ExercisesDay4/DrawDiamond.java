@@ -1,4 +1,5 @@
 package ExercisesDay4;
+
 import java.util.Scanner;
 
 public class DrawDiamond {
@@ -23,7 +24,8 @@ public class DrawDiamond {
 
             }
         } else {
-            for (int i = numOfLines / 2+1; i < numOfLines; i++){
-//                line = " " + line;
-
-            }}}}
+            for (int i = numOfLines / 2 + 1; i < numOfLines; i++) {
+            }
+        }
+    }
+}
