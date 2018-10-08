@@ -1,11 +1,17 @@
 public class healthyPlants {
-    String color;
-    double waterLevel;
-    int waterThreshold;
-    double absorption;
-    String type;
+    protected int waterLevel;
+    protected String name;
 
-    void water(int amount) {
-        this.waterLevel += amount * absorption;
+
+    healthyPlants(String name) {
+        waterLevel = 0;
+        this.name = name;
+    }
+
+    void watering(double amountOfWater) {
+    }
+
+    boolean needsWater() {
+        return false;
     }
 }

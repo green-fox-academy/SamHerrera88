@@ -1,9 +1,16 @@
 public class Tree extends healthyPlants {
-    Tree(String color, double waterLevel) {
-        this.color = color;
-        this.waterLevel = waterLevel;
-        this.waterThreshold = 10;
-        this.absorption() = 0.4;
-        this.type = "tree";
+    public Tree(String name) {
+        super(name);
+    }
+    void watering (double amountOfWater) {
+        super.waterLevel+=4*amountOfWater/10;
+    }
+
+    boolean needsWater () {
+        if (super.waterLevel < 10) {
+            return true;
+        } else {
+            return false;
+        }
     }
 }

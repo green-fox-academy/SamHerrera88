@@ -1,18 +1,50 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class TheGarden{
-    List<Plant> garden;
+public class TheGarden {
+    ArrayList<healthyPlants> plants = new ArrayList<>();
 
-    TheGarden() {
-        garden = new ArrayList<>();
+    public TheGarden() {
     }
-    void addPlant(Plant plant);
-    this.garden.add(healthyPlants);
-}
-    void printInfo(){
-    for (Plant plant : garden){
-        if(plant.waterLevel < plant.waterThreshold){
-            System.out.println("The " + plant.color + " " );
+
+    void add(healthyPlants plant) {
+        plants.add(plant);
+    }
+
+    void
+    watering(int amountOfWater) {
+
+        System.out.println("Watering with " + amountOfWater);
+        int flowersWhichNeedsWater = 0;
+        for (int i = 0; i < plants.size(); i++) {
+            if (plants.get(i).needsWater()) {
+                flowersWhichNeedsWater++;
+            }
+        }
+        for (int i = 0; i < plants.size(); i++) {
+            if (plants.get(i) instanceof Flower) {
+                if (!plants.get(i).needsWater()) {
+                    System.out.println("The " + plants.get(i).name + " Flower doesn't need water");
+                } else {
+                    plants.get(i).watering(amountOfWater / (double) flowersWhichNeedsWater);
+                    if (plants.get(i).needsWater()) {
+                        System.out.println("The " + plants.get(i).name + " Flower needs water");
+                    } else {
+                        System.out.println("The " + plants.get(i).name + " Flower doesn't need water");
+                    }
+                }
+            } else {
+                if (!plants.get(i).needsWater()) {
+                    System.out.println("The " + plants.get(i).name + " Tree doesn't need water");
+                } else {
+                    plants.get(i).watering(amountOfWater / (double) flowersWhichNeedsWater);
+                    if (plants.get(i).needsWater()) {
+                        System.out.println("The " + plants.get(i).name + " Tree needs water");
+                    } else {
+                        System.out.println("The " + plants.get(i).name + " Tree doesn't need water");
+                    }
+                }
+            }
         }
     }
+}

@@ -1,9 +1,16 @@
 public class Flower extends healthyPlants {
-    Flower(String color, double waterLevel){
-    this.color = color;
-    this.waterLevel = waterLevel;
-    this.waterThreshold = 5;
-    this.absorption() = 0.75;
-    this.type = "flower";
+    public Flower(String name) {
+        super(name);
+    }
+
+    void watering(double amountOfWater) {
+        super.waterLevel += 3 * amountOfWater / 4;
+    }
+
+    boolean needsWater() {
+        if (waterLevel < 5) {
+            return true;
+        }
+        return false;
     }
 }
