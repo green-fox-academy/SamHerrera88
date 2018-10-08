@@ -2,23 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8f8e9403-ca8d-4caf-a763-439886dcdd0d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ClassesExercises/.idea/ClassesExercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassesExercises/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassesExercises/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassesExercises/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ClassesExercises/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Hexagons.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02-Exceptions/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02-Exceptions/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Refactorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Refactorio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-05/Fractals/src/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Carpet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-05/Fractals/src/Squares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Squares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/Carpet$ImagePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/Carpet$ImagePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/Carpet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/Carpet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/RecursiveTreeDrawingPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/RecursiveTreeDrawingPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/Squares$ImagePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/Squares$ImagePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/Squares.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/Squares.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/Tree$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/Tree$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/Tree$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/Tree$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/Tree.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/Tree.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,7 +24,7 @@
     <session id="-1005143111">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.opened" value="2" />
@@ -79,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ClassesExercises/src/Pokemon.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="602">
-              <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+            <state relative-caret-position="663">
+              <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -95,12 +88,12 @@
         <entry file="file://$PROJECT_DIR$/ClassesExercises/src/Pokemon2.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="136">
-              <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+              <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/ClassesExercises/src/Dominoes.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
@@ -264,7 +257,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538583586684" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538752315171" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -346,16 +339,15 @@
       <option name="presentableId" value="Default" />
       <updated>1538559868414</updated>
       <workItem from="1538559874747" duration="21691000" />
-      <workItem from="1538747438796" duration="774000" />
+      <workItem from="1538747438796" duration="3162000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22465000" />
+    <option name="totallyTimeSpent" value="24853000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -469,10 +461,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassesExercises/src/Dominoes.java">
+    <entry file="file://$PROJECT_DIR$/ClassesExercises/src/Pokemon.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="663">
+          <caret line="42" column="1" lean-forward="true" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -482,14 +474,14 @@
     <entry file="file://$PROJECT_DIR$/ClassesExercises/src/Pokemon2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+          <caret line="8" column="49" lean-forward="true" selection-start-line="8" selection-start-column="49" selection-end-line="8" selection-end-column="49" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ClassesExercises/src/Pokemon.java">
+    <entry file="file://$PROJECT_DIR$/ClassesExercises/src/Dominoes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="602">
-          <caret line="40" column="22" lean-forward="true" selection-start-line="40" selection-start-column="22" selection-end-line="40" selection-end-column="22" />
+        <state relative-caret-position="323">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
