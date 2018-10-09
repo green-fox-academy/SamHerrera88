@@ -4,12 +4,10 @@ public class Main {
         Gnirts g = new Gnirts("example");
         g.length();
         g.charAt(1);
-        g.subSequence(1, 4);
 
         Shifters s = new Shifters("example", 2);
         s.length();
         s.charAt(0);
-        System.out.println(s.charAt(0));
-        System.out.println(s.subSequence(1, 3));
+        System.out.println(s.charAt(0));;
     }
 }
