@@ -3,14 +3,11 @@ public class Tree extends healthyPlants {
         super(name);
     }
     void watering (double amountOfWater) {
-        super.waterLevel+=4*amountOfWater/10;
+        super.waterLevel += amountOfWater * 0.4;
     }
 
     boolean needsWater () {
-        if (super.waterLevel < 10) {
-            return true;
-        } else {
-            return false;
-        }
+        if (super.waterLevel < 10 ? true : false);
+        return false;
     }
-}
+    }

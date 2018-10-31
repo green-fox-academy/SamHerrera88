@@ -2,53 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e9b739f-b1da-4252-b129-db5368d052c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/day-02.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-02/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/day-03.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-03/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/ExercisesDay4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-04/src/ExercisesDay4/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/day-05.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-01/day-05/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/ProjectDay04.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/EnvelopStar$ImagePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/EnvelopStar.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlay$ImagePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlay.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlayQuarters$ImagePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/LinePlayQuarters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/Triangles$ImagePanel.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ProjectDay04/out/production/LineProjects/Triangles.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/ExamExercises.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/Seconds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../week-03/TrialExam/TrialExam.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/Triangles.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ProjectDay04/LineProjects/src/Triangles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Doubling/PalindromeBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Doubling/ReverseList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Doubling/Unique.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/AppendLetter.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/CandyShop.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/ElementFinder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/IsInList.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/QuoteSwap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DoJo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DoJo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/ProjectDojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/ProjectDojo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/Anagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/AnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/AnagramTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/DoJoPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/DoJoPractice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/NumberConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/NumberConverter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/tests/TestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/tests/TestNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice/Practice1/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice/Practice1/src/Book.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice/Practice1/src/Bookshelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice/Practice1/src/Bookshelf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Practice/Practice1/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice/Practice1/src/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TheWanderer/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TheWanderer/TheGame/src.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../TheWanderer/TheGame/src/Board.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Doubling/Colors.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Doubling/Colors.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/src/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/Bubble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/src/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/Matrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/src/PalindromeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/PalindromeBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/src/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exercises/src/Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/Unique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Doubling/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Doubling/Matrix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/AppendLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/AppendLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/CandyShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/CandyShop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/ElementFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/ElementFinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/IsInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/IsInList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-02/src/QuoteSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/QuoteSwap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/.idea/week-03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/.idea/week-03.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/WritingMultipleLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/WritingMultipleLines.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-03-Classes/ClassesExercises/src/PirateShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-03-Classes/ClassesExercises/src/PirateShip.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-03/day-03-Classes/ClassesExercises/src/Pirates.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-03-Classes/ClassesExercises/src/Pirates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/CountLetters/src/CountLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/CountLetters/src/CountLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/CountLetters/src/MainCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/CountLetters/src/MainCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/Fibonacci/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/Fibonacci/src/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/Fibonacci/src/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/Fibonacci/src/FibonacciTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/out/production/CountLetters/MainCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/out/production/CountLetters/MainCount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/Flower.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/TheGarden.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/TheGarden.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/Tree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/healthyPlants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/healthyPlants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-04/day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-02/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,39 +73,74 @@
         <counts>
           <entry key="project.closed" value="2" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="16" />
+          <entry key="java" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="16" />
+          <entry key="JAVA" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3404" />
+          <entry key="java" value="4118" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3404" />
+          <entry key="JAVA" value="4118" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/PrintParams.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/ReverseList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="153">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+              <folding>
+                <element signature="e#0#306#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/Unique.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+              <folding>
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#303#304#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/Bubble.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exercises/src/PalindromeBuilder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -113,7 +158,7 @@
         <entry file="file://$PROJECT_DIR$/Exercises/src/SumElements.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
-              <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+              <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -149,29 +194,7 @@
         <entry file="file://$PROJECT_DIR$/Exercises/src/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/DoubleItems.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-              <folding>
-                <element signature="e#433#434#0" expanded="true" />
-                <element signature="e#461#462#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exercises/src/Colors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -203,9 +226,13 @@
         <option value="$PROJECT_DIR$/Exercises/src/ChangeElement.java" />
         <option value="$PROJECT_DIR$/Exercises/src/IncrementElement.java" />
         <option value="$PROJECT_DIR$/Exercises/src/PrintAll.java" />
-        <option value="$PROJECT_DIR$/Exercises/src/Matrix.java" />
         <option value="$PROJECT_DIR$/Exercises/src/DoubleItems.java" />
         <option value="$PROJECT_DIR$/Exercises/src/Colors.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/ReverseList.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Matrix.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Unique.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/PalindromeBuilder.java" />
+        <option value="$PROJECT_DIR$/Exercises/src/Bubble.java" />
       </list>
     </option>
   </component>
@@ -225,10 +252,11 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="Scope" currentSubView="Scope 'Default Changelist'; set:Default Changelist; class com.intellij.packageDependencies.ChangeListScope" proportions="" version="1">
+    <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -237,19 +265,29 @@
               <item name="day-01" type="b2602c69:ProjectViewProjectNode" />
               <item name="day-01" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="day-01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-01" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="day-01" type="b2602c69:ProjectViewProjectNode" />
+              <item name="day-01" type="462c0819:PsiDirectoryNode" />
+              <item name="Exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538386367983" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541001436519" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day-02" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -265,28 +303,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IncrementElement">
-    <configuration name="Colors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Colors" />
-      <module name="Doubling" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DoubleItems" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DoubleItems" />
-      <module name="Doubling" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IncrementElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IncrementElement" />
-      <module name="Doubling" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.PalindromeBuilder">
     <configuration name="Matrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Matrix" />
       <module name="Doubling" />
@@ -294,27 +311,48 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintAll" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintAll" />
+    <configuration name="PalindromeBuilder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PalindromeBuilder" />
+      <module name="Doubling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReverseList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReverseList" />
+      <module name="Doubling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SumElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SumElements" />
+      <module name="Doubling" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Unique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Unique" />
       <module name="Doubling" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IncrementElement" />
-      <item itemvalue="Application.PrintAll" />
+      <item itemvalue="Application.SumElements" />
+      <item itemvalue="Application.ReverseList" />
       <item itemvalue="Application.Matrix" />
-      <item itemvalue="Application.DoubleItems" />
-      <item itemvalue="Application.Colors" />
+      <item itemvalue="Application.Unique" />
+      <item itemvalue="Application.PalindromeBuilder" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.IncrementElement" />
-        <item itemvalue="Application.Colors" />
-        <item itemvalue="Application.DoubleItems" />
-        <item itemvalue="Application.PrintAll" />
+        <item itemvalue="Application.PalindromeBuilder" />
+        <item itemvalue="Application.Unique" />
         <item itemvalue="Application.Matrix" />
+        <item itemvalue="Application.ReverseList" />
+        <item itemvalue="Application.SumElements" />
       </list>
     </recent_temporary>
   </component>
@@ -330,26 +368,28 @@
       <updated>1537776775467</updated>
       <workItem from="1537776792875" duration="25569000" />
       <workItem from="1538057789614" duration="7591000" />
+      <workItem from="1540982043993" duration="8345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33160000" />
+    <option name="totallyTimeSpent" value="41505000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
+    <frame x="-6" y="-6" width="1381" height="895" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.22222222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3602649" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.35947713" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -358,7 +398,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" weight="0.3299566" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32941177" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -457,24 +497,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/CompareLength.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/PrintParams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        <state relative-caret-position="425">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/SumElements.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/ChangeElement.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/DoubleItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding>
+            <element signature="e#433#434#0" expanded="true" />
+            <element signature="e#461#462#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Colors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/ReverseList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#306#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -495,32 +549,53 @@
     <entry file="file://$PROJECT_DIR$/Exercises/src/Matrix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
-          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/DoubleItems.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Unique.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="40" lean-forward="true" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+        <state relative-caret-position="340">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
           <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Colors.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Bubble.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="238">
+          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/PrintParams.java">
+    <entry file="file://$PROJECT_DIR$/Exercises/src/CompareLength.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        <state relative-caret-position="170">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/SumElements.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="37" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/ChangeElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/PalindromeBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
         </state>
       </provider>
     </entry>

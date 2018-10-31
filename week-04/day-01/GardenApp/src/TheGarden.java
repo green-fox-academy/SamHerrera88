@@ -11,8 +11,7 @@ public class TheGarden {
         plants.add(plant);
     }
 
-    void
-    watering(int amountOfWater) {
+    void watering(int amountOfWater) {
 
         System.out.println("Watering with " + amountOfWater);
         int flowersWhichNeedsWater = 0;

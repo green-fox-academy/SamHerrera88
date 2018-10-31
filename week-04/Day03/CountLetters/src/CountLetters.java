@@ -2,6 +2,8 @@ import java.util.HashMap;
 
 public class CountLetters {
 
+
+
     public HashMap<Character, Integer> countLetters (String test){
         HashMap<Character, Integer> dictionary = new HashMap<>();
         for (int i = 0; i <test.length() ; i++) {

@@ -7,37 +7,37 @@
 // to the file and each line should be "apple"
 // The function should not raise any error if it could not write the file
 
+import java.io.IOException;
+import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.nio.file.StandardOpenOption;
 import java.util.ArrayList;
-import java.util.Scanner;
 import java.util.*;
 
 public class WritingMultipleLines {
 
     public static void main(String[] args) {
-        writeToFile("path", "word", Integer.parseInt("num"));
-        Scanner scanner = new Scanner(System.in);
-        String path = scanner.toString();
-        System.out.println("What file would you like to write in?");
-
-        Scanner input2 = new Scanner(System.in);
-        String word = scanner.toString();
-        System.out.println("What would you like write in it?");
-
-        Scanner input3 = new Scanner(System.in);
-        int num = scanner.nextInt();
-        System.out.println("How many time do you want it written?");
+        String path = "Testing.txt";
+        String word = "newLine";
+        int num = 3;
+        fileWriter(path, word, num);
     }
 
-    public static void writeToFile(String path, String word, int numOfLines) {
-        Path path1 = Paths.get("Testing.txt");
-        ArrayList<String> toWrite = new ArrayList<>();
-        for (int i = 0; i < numOfLines; i++) {
-            toWrite.add(toWrite.size(), word);
+    public static void fileWriter(String path, String word, int num) {
+        Path path2 = Paths.get(path);
+        List<String> writeThis = new ArrayList<>();
+        for (int i = 0; i < num; i++) {
+            writeThis.add(word);
+            System.out.println();
         }
         try {
-            writeToFile("", "", Integer.parseInt("num"));
-            {
+            Files.write(path2, writeThis, StandardOpenOption.APPEND);
+            for (String line : Files.readAllLines(path2)) {
+                System.out.println(line);
             }
-        } catch
+        } catch (IOException e) {
+            System.out.println("File is not writable");
+        }
+    }
+}

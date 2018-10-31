@@ -4,7 +4,7 @@ public class Flower extends healthyPlants {
     }
 
     void watering(double amountOfWater) {
-        super.waterLevel += 3 * amountOfWater / 4;
+        super.waterLevel += amountOfWater * 0.75;
     }
 
     boolean needsWater() {

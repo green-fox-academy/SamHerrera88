@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Anagram/Anagram.iml" filepath="$PROJECT_DIR$/Anagram/Anagram.iml" />
       <module fileurl="file://$PROJECT_DIR$/CountLetters/CountLetters.iml" filepath="$PROJECT_DIR$/CountLetters/CountLetters.iml" />
       <module fileurl="file://$PROJECT_DIR$/Day03.iml" filepath="$PROJECT_DIR$/Day03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fibonacci/Fibonacci.iml" filepath="$PROJECT_DIR$/Fibonacci/Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/Sum/Sum.iml" filepath="$PROJECT_DIR$/Sum/Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/Testing/Testing.iml" filepath="$PROJECT_DIR$/Testing/Testing.iml" />
     </modules>
