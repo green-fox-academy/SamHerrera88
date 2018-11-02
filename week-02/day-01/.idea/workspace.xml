@@ -2,63 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7e9b739f-b1da-4252-b129-db5368d052c9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/out/production/Doubling/PalindromeBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Doubling/ReverseList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/Doubling/Unique.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/AppendLetter.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/CandyShop.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/ElementFinder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/IsInList.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../day-02/out/production/day-02/QuoteSwap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DoJo/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DoJo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/ProjectDojo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/ProjectDojo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/Anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/Anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/AnagramTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/AnagramTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/DoJoPractice.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/DoJoPractice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/NumberConverter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/src/NumberConverter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../DoJo/ProjectDojo/tests/TestNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../DoJo/ProjectDojo/tests/TestNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practice/Practice1/src/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice/Practice1/src/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practice/Practice1/src/Bookshelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice/Practice1/src/Bookshelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Practice/Practice1/src/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Practice/Practice1/src/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TheWanderer/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TheWanderer/TheGame/src.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../TheWanderer/TheGame/src/Board.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/Bubble.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/Bubble.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/PalindromeBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/PalindromeBuilder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Exercises/src/Unique.java" beforeDir="false" afterPath="$PROJECT_DIR$/Exercises/src/Unique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Doubling/Matrix.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Doubling/Matrix.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/AppendLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/AppendLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/CandyShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/CandyShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/ElementFinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/ElementFinder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/IsInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/IsInList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-02/src/QuoteSwap.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-02/src/QuoteSwap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/.idea/week-03.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/.idea/week-03.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/TrialExam/ExamExercises/src/CountAs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/WritingMultipleLines.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-02-Exceptions/Exceptions/src/WritingMultipleLines.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/day-03-Classes/ClassesExercises/src/PirateShip.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-03-Classes/ClassesExercises/src/PirateShip.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-03/day-03-Classes/ClassesExercises/src/Pirates.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-03/day-03-Classes/ClassesExercises/src/Pirates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/CountLetters/src/CountLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/CountLetters/src/CountLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/CountLetters/src/MainCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/CountLetters/src/MainCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/Fibonacci/src/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/Fibonacci/src/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/Fibonacci/src/FibonacciTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/Fibonacci/src/FibonacciTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/Day03/out/production/CountLetters/MainCount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/Day03/out/production/CountLetters/MainCount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/Flower.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/Flower.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/TheGarden.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/TheGarden.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/Tree.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/Tree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/healthyPlants.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-01/GardenApp/src/healthyPlants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-04/day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-04/day-02/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -71,11 +16,12 @@
     <session id="-721298375">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -105,11 +51,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises/src/ReverseList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="102">
               <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-              <folding>
-                <element signature="e#0#306#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -117,12 +60,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exercises/src/Unique.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="306">
               <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-              <folding>
-                <element signature="e#219#220#0" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -131,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/Exercises/src/Bubble.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -194,7 +133,7 @@
         <entry file="file://$PROJECT_DIR$/Exercises/src/Matrix.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
             </state>
           </provider>
         </entry>
@@ -242,7 +181,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="132" />
     <option name="y" value="8" />
     <option name="width" value="2434" />
@@ -256,8 +195,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,12 +217,14 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541001436519" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541002642924" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../day-02" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -368,18 +307,18 @@
       <updated>1537776775467</updated>
       <workItem from="1537776792875" duration="25569000" />
       <workItem from="1538057789614" duration="7591000" />
-      <workItem from="1540982043993" duration="8345000" />
+      <workItem from="1540982043993" duration="8957000" />
+      <workItem from="1541002910356" duration="84000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41505000" />
+    <option name="totallyTimeSpent" value="42201000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="895" extended-state="7" />
-    <editor active="true" />
+    <frame x="17" y="1" width="1217" height="821" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22222222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22605695" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,10 +447,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
-          <folding>
-            <element signature="e#433#434#0" expanded="true" />
-            <element signature="e#461#462#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -524,50 +459,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/ReverseList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="102">
           <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#306#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/IncrementElement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/PrintAll.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Exercises/src/Matrix.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="33" lean-forward="true" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/Unique.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="306">
           <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exercises/src/Bubble.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -589,6 +496,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/IncrementElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="33" selection-start-line="8" selection-start-column="33" selection-end-line="8" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/PrintAll.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="40" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exercises/src/Matrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
         </state>
       </provider>
     </entry>

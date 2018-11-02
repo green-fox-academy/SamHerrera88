@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2cd56f2a-c7be-43c2-91d6-ed485a1bb929" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Hexagons.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-01/day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Refactorio.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-04/RecursionExercises/src/Refactorio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-05/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-05/Fractals/src/Carpet.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Carpet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-05/Fractals/src/Squares.java" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/Fractals/src/Squares.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/Carpet$ImagePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/Carpet$ImagePanel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../day-05/out/production/Fractals/Carpet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../day-05/out/production/Fractals/Carpet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exceptions/src/ReversedOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-01/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../week-02/day-02/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../week-02/day-02/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,34 +18,37 @@
     <session id="1706595835">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="5" />
-          <entry key="txt" value="1" />
+          <entry key="java" value="6" />
+          <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="5" />
-          <entry key="PLAIN_TEXT" value="1" />
+          <entry key="JAVA" value="6" />
+          <entry key="PLAIN_TEXT" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2671" />
+          <entry key="java" value="2929" />
+          <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2671" />
+          <entry key="JAVA" value="2929" />
+          <entry key="PLAIN_TEXT" value="18" />
         </counts>
       </usages-collector>
     </session>
@@ -61,7 +59,7 @@
         <entry file="file://$PROJECT_DIR$/Exceptions/src/DivideByZero.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="12" />
+              <caret line="12" selection-start-line="11" selection-start-column="40" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -69,7 +67,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exceptions/src/PrintAllLines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="255">
               <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -81,7 +79,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exceptions/src/CountLines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
+            <state relative-caret-position="204">
               <caret line="15" column="53" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -93,7 +91,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exceptions/src/WriteSingleLine.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="255">
               <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="20" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -102,11 +100,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Exceptions/src/WritingMultipleLines.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="585">
+            <state relative-caret-position="595">
               <caret line="42" selection-start-line="42" selection-end-line="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Exceptions/src/ReversedOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -139,6 +149,8 @@
         <option value="$PROJECT_DIR$/Exceptions/src/CountLines.java" />
         <option value="$PROJECT_DIR$/Exceptions/src/WriteSingleLine.java" />
         <option value="$PROJECT_DIR$/Exceptions/src/WritingMultipleLines.java" />
+        <option value="$PROJECT_DIR$/reversedOrder.txt" />
+        <option value="$PROJECT_DIR$/Exceptions/src/ReversedOrder.java" />
       </list>
     </option>
   </component>
@@ -159,7 +171,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -182,15 +194,15 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538559769148" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541153437105" />
     <property name="jdk.selected.JAVA_MODULE" value="10" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../week-06" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -206,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.WritingMultipleLines">
+  <component name="RunManager" selected="Application.ReversedOrder">
     <configuration name="CountLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountLines" />
       <module name="Exceptions" />
@@ -214,15 +226,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivideByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DivideByZero" />
+    <configuration name="PrintAllLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="PrintAllLines" />
       <module name="Exceptions" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintAllLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrintAllLines" />
+    <configuration name="ReversedOrder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ReversedOrder" />
       <module name="Exceptions" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -243,19 +255,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DivideByZero" />
       <item itemvalue="Application.PrintAllLines" />
       <item itemvalue="Application.CountLines" />
       <item itemvalue="Application.WriteSingleLine" />
       <item itemvalue="Application.WritingMultipleLines" />
+      <item itemvalue="Application.ReversedOrder" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReversedOrder" />
         <item itemvalue="Application.WritingMultipleLines" />
         <item itemvalue="Application.CountLines" />
         <item itemvalue="Application.PrintAllLines" />
         <item itemvalue="Application.WriteSingleLine" />
-        <item itemvalue="Application.DivideByZero" />
       </list>
     </recent_temporary>
   </component>
@@ -271,17 +283,17 @@
       <updated>1538471890246</updated>
       <workItem from="1538471896970" duration="18216000" />
       <workItem from="1538747319000" duration="82000" />
+      <workItem from="1541003017191" duration="2866000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18298000" />
+    <option name="totallyTimeSpent" value="21164000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="885" extended-state="6" />
-    <editor active="true" />
+    <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.2532124" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2532124" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -291,7 +303,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32980132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -300,7 +312,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.32980132" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32980132" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -356,13 +368,13 @@
     <entry file="file://$PROJECT_DIR$/Exceptions/src/DivideByZero.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="12" />
+          <caret line="12" selection-start-line="11" selection-start-column="40" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Exceptions/src/PrintAllLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="255">
           <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -370,12 +382,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Testing.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Exceptions/src/CountLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
+        <state relative-caret-position="204">
           <caret line="15" column="53" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="53" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -385,7 +394,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exceptions/src/WriteSingleLine.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="255">
           <caret line="19" column="11" selection-start-line="19" selection-start-column="11" selection-end-line="20" selection-end-column="43" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -395,8 +404,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Exceptions/src/WritingMultipleLines.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
+        <state relative-caret-position="595">
           <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reversed-order.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Testing.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Exceptions/src/ReversedOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
