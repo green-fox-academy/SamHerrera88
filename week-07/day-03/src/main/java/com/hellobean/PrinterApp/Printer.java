@@ -10,7 +10,7 @@ import java.time.LocalDateTime;
 public class Printer {
 
 
-    @Qualifier("myOrangeColorImpl")
+    @Qualifier("myRedColorImpl")
     @Autowired
     MyColor myColor;
 

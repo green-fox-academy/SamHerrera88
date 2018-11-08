@@ -8,9 +8,7 @@ public class Book {
         this.title = title;
         this.releaseYear = releaseYear;
     }
-
-    @Override
-    public String toString() {
+    public String toString(){
         return author + " : " + title + " (" + releaseYear + ")";
     }
 }

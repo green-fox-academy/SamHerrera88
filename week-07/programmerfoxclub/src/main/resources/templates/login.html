@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<style>
+    h2{
+        font-size: x-large;
+    }
+</style>
+<head>
+    <meta charset="UTF-8">
+    <title>Login Page</title>
+    <link href="https://fonts.googleapis.com/css?family=Spicy+Rice" rel="stylesheet">
+    <link rel="stylesheet" th:href="@{/style.css}"/>
+</head>
+<h2>
+    Welcome to Programmer Fox Club!
+</h2>
+<p>
+    Please provide a name, so you can associate it to your pet!
+</p>
+<p>
+    <form action="#" th:action="@{/login}" method="Post">
+    <input type="text" name="foxname" placeholder="Please enter name here" required>
+    <button type="submit">GO</button>
+    </form>
+</p>
+<h3
+    th:if="${name == 'No Parameter'}" th:style="'color: red'"
+    th:text="'There is no given name! Please enter a name!'"></h3>
+
+</body>
+</html>
