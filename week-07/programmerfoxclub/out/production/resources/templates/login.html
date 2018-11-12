@@ -9,8 +9,10 @@
     <meta charset="UTF-8">
     <title>Login Page</title>
     <link href="https://fonts.googleapis.com/css?family=Spicy+Rice" rel="stylesheet">
-    <link rel="stylesheet" th:href="@{/style.css}"/>
+    <link rel="stylesheet" href="styles.css">
 </head>
+<body>
+<main>
 <h2>
     Welcome to Programmer Fox Club!
 </h2>
@@ -26,6 +28,6 @@
 <h3
     th:if="${name == 'No Parameter'}" th:style="'color: red'"
     th:text="'There is no given name! Please enter a name!'"></h3>
-
+</main>
 </body>
 </html>

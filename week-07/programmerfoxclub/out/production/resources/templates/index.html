@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" xmlns:th="http://thymeleaf.org">
 <head>
     <meta charset="UTF-8">
     <title>Programmer Fox Club</title>
@@ -10,13 +10,26 @@
 
 <body>
 <main>
+    <div class="menu-bar">
 <h1>
-    <a href="/">
+    <!--<a href="/">-->
         <ul>
-            <li>Information</li>
+            <li>
+                <a th:href="${fox.name}">Information</a>
+            </li>
+            <li>
+                <a th:href="$/nutritionStore/ + $fox.name">Where you get your Elements</a>
+            </li>
+            <li>
+                <a th:href="@{${/trickCenter/} + ${fox.name">Life Skills</a>
+            </li>
+            <li>
+                <a th:href="/login">Login</a>
+            </li>
         </ul>
     </a>
 </h1>
+    </div>
 <p>
     <img src="https://github.com/green-fox-academy/teaching-materials/blob/master/project/programmer-fox-club/assets/greenfox.png?raw=true">
 </p>

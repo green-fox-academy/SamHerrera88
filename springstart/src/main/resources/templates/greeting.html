@@ -4,7 +4,7 @@
     <title>Getting Started: Serving Web Content</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 </head>
-<body>
-<p th:text="'Hello, ' + ${name} + '! This page was loaded ' + ${id} + ' times since last server start.'"/>
+<body th:style="'font-size:' + ${sizeFont + 20} + 'px;' + 'color:' + ${fontColors}">
+<p th:text=" ${hellos} + '!'"/>
 </body>
 </html>
