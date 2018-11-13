@@ -1,35 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7bdc9cf2-c335-4b7e-984e-d3fe0f3ead89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/Controllers/FoxController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/Model/Drink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/Model/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/Model/Fox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/Model/Trick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/Repository/FoxRepo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/Services/FoxService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/Services/FoxServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Practicce/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Practicce/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springstart/.gradle/4.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../springstart/.gradle/4.8/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springstart/.gradle/4.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../springstart/.gradle/4.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springstart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springstart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springstart/out/production/classes/Com/GreenFox/controllers/HelloWebController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../springstart/out/production/classes/Com/GreenFox/controllers/HelloWebController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springstart/out/production/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/../springstart/out/production/resources/templates/greeting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springstart/src/main/java/Com/GreenFox/controllers/HelloWebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../springstart/src/main/java/Com/GreenFox/controllers/HelloWebController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../springstart/src/main/resources/templates/greeting.html" beforeDir="false" afterPath="$PROJECT_DIR$/../springstart/src/main/resources/templates/greeting.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/out/production/classes/FoxTamagotchi/Controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/out/production/classes/FoxTamagotchi/Controllers/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/out/production/resources/static/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/out/production/resources/static/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/out/production/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/out/production/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/out/production/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/out/production/resources/templates/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/Controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/Controllers/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/Fox.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/java/FoxTamagotchi/FoxService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/resources/static/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/resources/static/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/resources/templates/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/../week-07/programmerfoxclub/src/main/resources/templates/login.html" afterDir="false" />
-    </list>
+    <list default="true" id="7bdc9cf2-c335-4b7e-984e-d3fe0f3ead89" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,10 +13,11 @@
     <session id="-2029046157">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -83,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Card.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="153">
               <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
               <folding>
                 <element signature="e#203#204#0" expanded="true" />
@@ -96,7 +69,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Deck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1023">
+            <state relative-caret-position="833">
               <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -146,6 +119,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -162,7 +136,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -213,16 +186,17 @@
       <workItem from="1541257982336" duration="7722000" />
       <workItem from="1541437719879" duration="2535000" />
       <workItem from="1542027948111" duration="619000" />
+      <workItem from="1542114115021" duration="240000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10876000" />
+    <option name="totallyTimeSpent" value="11116000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25699168" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26077098" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -276,7 +250,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Card.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="153">
           <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
           <folding>
             <element signature="e#203#204#0" expanded="true" />
@@ -287,7 +261,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Deck.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1023">
+        <state relative-caret-position="833">
           <caret line="72" column="27" selection-start-line="72" selection-start-column="27" selection-end-line="72" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
