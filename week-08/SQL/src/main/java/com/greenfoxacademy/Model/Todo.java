@@ -16,7 +16,7 @@ public Todo(){
     @GeneratedValue
     long id;
     String title;
-    boolean urgent = false;
+    boolean urgent = true;
     boolean done = false;
 
     public long getId() {
