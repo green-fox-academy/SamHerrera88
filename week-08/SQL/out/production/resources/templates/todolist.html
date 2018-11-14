@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+
+    <meta charset="UTF-8">
+    <title>ToDo List</title>
+    <link rel="stylesheet" href="styles.css">
+
+</head>
+<h1 style="font-size: x-large">ToDo for the day:</h1>
+<body>
+<ul>
+    <li th:each="todo: ${todos}"></li>
+</ul>
+</body>
+</html>

@@ -1,19 +1,22 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:th="http://thymeleaf.org">
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
-
+    <bootstrap.min.css>
+        <link href="webjars/bootstrap/3.3.7-1/css/bootstrap.min.css" rel="stylesheet"/>
+    </bootstrap.min.css>
     <meta charset="UTF-8">
     <title>ToDo List</title>
     <link rel="stylesheet" href="styles.css">
 
 </head>
-<h1 style="font-size: x-large">ToDo for the day:</h1>
 <body>
+<h1 style="font-size: x-large">ToDo for the day:</h1>
 <ul>
-    <li>Start the day with Jesus</li>
-    <li>Finish the first exercise</li>
-    <li>Study more after class</li>
-    <li>Take in the Breathe of the Spirit</li>
+    <li th:each="todo: ${todos}"> <p th:text="${todo.title}"></p></li>
+
+    <script src="webjars/jquery/1.11.1/jquery.min.js"></script>
+    <script src="webjars/bootstrap/3.3.7-1/js/bootstrap.min.js"></script>
+
 </ul>
 </body>
 </html>
