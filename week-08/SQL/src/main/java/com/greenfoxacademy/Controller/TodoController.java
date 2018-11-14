@@ -27,6 +27,7 @@ public class TodoController {
 
     @PostMapping("/create")
     public String saveTodo(@ModelAttribute Todo todo) {
-
+    repo.save(todo);
+    return "/list";
     }
 }
