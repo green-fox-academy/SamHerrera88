@@ -20,7 +20,6 @@ public class Main implements CommandLineRunner {
 
     @Override
     public void run(String... args) throws Exception {
-        System.out.println("asd");
     repo.save(new Todo("I have to learn Object Relational Mapping"));
     }
 

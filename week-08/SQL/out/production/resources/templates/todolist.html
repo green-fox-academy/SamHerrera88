@@ -10,7 +10,7 @@
 <h1 style="font-size: x-large">ToDo for the day:</h1>
 <body>
 <ul>
-    <li th:each="todo: ${todos}"></li>
+    <li th:each="todo: ${todos}"><p th:text="${todo.title}"></p></li>
 </ul>
 </body>
 </html>
