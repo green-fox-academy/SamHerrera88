@@ -54,5 +54,9 @@ public Todo(String title, Boolean done, Boolean urgent){
     public void setDone(boolean done) {
         this.done = done;
     }
+
+    public void updateTodos(){
+
+    }
 }
 

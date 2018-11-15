@@ -2,28 +2,26 @@ package com.greenfoxacademy;
 
 import com.greenfoxacademy.Model.Todo;
 import com.greenfoxacademy.Repository.TodoRepo;
-import com.greenfoxacademy.Service.TodoService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Main implements CommandLineRunner {
+public class MainToDo {
 
     private TodoRepo repo;
 
     @Autowired
-    public Main(TodoRepo todoRepo) {
+    public MainToDo(TodoRepo todoRepo) {
         this.repo = repo;
     }
 
     public static void main(String[] args) {
-        SpringApplication.run(Main.class, args);
-
+        SpringApplication.run(MainToDo.class, args);
     }
 
-    @Override
+
     public void run(String... args) throws Exception {
         repo.save(new Todo("Praise the Lord today", true, true));
         repo.save(new Todo("Finish The ToDo App", false, true));
@@ -35,5 +33,4 @@ public class Main implements CommandLineRunner {
         repo.save(new Todo("Organize wardrobe", false, false));
         repo.save(new Todo("Go for a run", false, true));
     }
-
 }

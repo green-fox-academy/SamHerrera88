@@ -3,18 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <title>Create ToDo</title>
+    <link href="https://fonts.googleapis.com/css?family=KoHo" rel="stylesheet">
     <link rel="stylesheet" href="styles.css">
-
+<style>
+    body{
+        font-family: 'KoHo', sans-serif;
+    }
+</style>
 </head>
 <body>
-<h1>Add new ToDo</h1>
+<h1 style="animation:ease-in-out">Add New ToDo</h1>
 <form action="#" th:action="@{create}" th:object="${newTodo}" th:method="POST">
     <div>
         <p>
             <input type="text" th:field="*{title}"></p>
-        <div>
             <input type="submit" value="Save">
-        </div>
     </div>
 </form>
 

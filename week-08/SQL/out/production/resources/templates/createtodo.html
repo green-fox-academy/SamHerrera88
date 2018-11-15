@@ -7,14 +7,12 @@
 
 </head>
 <body>
-<h1>Add new ToDo</h1>
+<h1 style="animation:ease-in-out">+ new ToDo</h1>
 <form action="#" th:action="@{create}" th:object="${newTodo}" th:method="POST">
     <div>
         <p>
             <input type="text" th:field="*{title}"></p>
-        <div>
             <input type="submit" value="Save">
-        </div>
     </div>
 </form>
 
