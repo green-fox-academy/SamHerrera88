@@ -7,9 +7,10 @@ import org.springframework.stereotype.Service;
 
 import java.util.ArrayList;
 import java.util.List;
+import java.util.Optional;
 
 @Service
-public class TodoService {
+public class TodoService implements ToDoServiceImpl {
 
     private TodoRepo todoRepo;
 
@@ -19,13 +20,29 @@ public class TodoService {
     }
 
     @Override
-    public List<Todo> getAllTodos(){
-        List<Todo>todos = new ArrayList<>();
+    public List<Todo> getAllTodos() {
+        List<Todo> todos = new ArrayList<>();
         todoRepo.findAll().forEach(todos::add);
         return todos;
     }
+
     @Override
-    public void saveTodo(Todo todo){
+    public void saveTodo(Todo todo) {
+        todoRepo.save(todo);
+    }
+
+    @Override
+    public void removeById(Long id) {
+        todoRepo.deleteById(id);
+    }
+
+    @Override
+    public Optional<Todo> getTodoById(Long id) {
+        return todoRepo.findById(id);
+    }
+
+    @Override
+    public void updateTodo(Todo todo) {
         todoRepo.save(todo);
     }
 }
