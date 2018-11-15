@@ -46,7 +46,7 @@ public class TodoController {
     @GetMapping("/edit/{id}")
     public String editTodo(@PathVariable(value = "id") Long id, Model model) {
         Optional<Todo> todo = todoService.getTodoById(id);
-        model.addAttribute("edittodo", todo.get());
+        model.addAttribute("updatepage", todo.get());
         return "updatepage";
     }
 

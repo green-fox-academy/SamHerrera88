@@ -1,6 +1,9 @@
 <!DOCTYPE html>
-<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<html lang="en" xmlns:th="http://www.thymeleaf.org" >
 <head>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+          integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
     <meta charset="UTF-8">
     <title>Edit my Todo</title>
     <link href="https://fonts.googleapis.com/css?family=KoHo" rel="stylesheet">
@@ -16,7 +19,7 @@
 </head>
 <body>
 <h1>Update Todo</h1>
-<form action="#" th:action="@{/update/} + *{id}" th:method="POST">
+<form action="#" th:action="@{/edit/{id}}" th:method="POST">
     <label for="title">ToDo Description: </label>
     <input id="title" type="text" th:field="*title"/>
     <p></p>
@@ -35,6 +38,8 @@
         <a class="btn btn-danger" role="button" th:href="@{}">Cancel</a>
     </div>
 </form>
+<script src="webjars/jquery/1.11.1/jquery.min.js"></script>
+<script src="webjars/bootstrap/3.3.7-1/js/bootstrap.min.js"></script>
 
 </body>
 </html>
