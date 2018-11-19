@@ -20,41 +20,40 @@ public class TodoController {
 
     }
 
-    @RequestMapping({"/", "/list"})
+    @GetMapping({"/", "/list"})
     public String list(Model model) {
         model.addAttribute("todos", todoService.getAllTodos());
         return "todolist";
     }
 
     @GetMapping("/add")
-    public String createToDo(Model model) {
-        model.addAttribute("newTodo",new Todo());
+    public String createToDo() {
         return "createtodo";
     }
 
-    @PostMapping("/create")
-    public String saveTodo(@ModelAttribute Todo todo) {
-    todoService.saveTodo(todo);
+    @PostMapping("/")
+    public String saveTodo(@RequestParam String newTodo) {
+    todoService.saveTodo(new Todo (newTodo));
     return "redirect:/list";
     }
-    @PostMapping("/delete/{id}")
-    public String deleteTodo(@PathVariable(value = "id") Long id){
+    @DeleteMapping("/{id}/delete")
+    public String deleteTodo(@PathVariable(value = "id") long id){
         todoService.removeById(id);
         return "redirect:/list";
 
     }
-    @GetMapping("/edit/{id}")
-    public String editTodo(@PathVariable(value = "id") Long id, Model model) {
+    @GetMapping("/{id}/edit")
+    public String editTodo(@PathVariable(value = "id") long id, Model model) {
         Optional<Todo> todo = todoService.getTodoById(id);
-        model.addAttribute("updatepage", todo.get());
+        model.addAttribute("todo", todo.get());
         return "updatepage";
     }
 
-    @PostMapping("/update/{id}")
-    public String updateTodo(@PathVariable(value = "id") Long id, @ModelAttribute Todo todo){
+    @PostMapping("/{id}/update")
+    public String updateTodo(@PathVariable(value = "id") long id, @ModelAttribute Todo todo){
         todo.setId(id);
         todoService.updateTodo(todo);
         Optional<Todo> needToEditTodo = todoService.getTodoById(id);
-        return "redirect:/list";
+        return "updatepage";
     }
 }

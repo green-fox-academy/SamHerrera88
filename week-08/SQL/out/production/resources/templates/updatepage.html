@@ -15,13 +15,16 @@
             background-color: lightgoldenrodyellow;
             font-family: 'KoHo', sans-serif
         }
+        form{
+            alignment: top;
+        }
     </style>
 </head>
 <body>
 <h1>Update Todo</h1>
 <form action="#" th:action="@{/edit/{id}}" th:method="POST">
     <label for="title">ToDo Description: </label>
-    <input id="title" type="text" th:field="*title"/>
+    <input id="title" type="text" th:field="${todo.title}"/>
     <p></p>
 <div>
     <label for="isUrgent">Urgent?</label>
@@ -35,7 +38,7 @@
     <p></p>
     <div>
         <input type="submit" class="btn btn-light" value="Submit"/>
-        <a class="btn btn-danger" role="button" th:href="@{}">Cancel</a>
+        <a class="btn btn-danger" role="button" th:href="'/todolist'">Cancel</a>
     </div>
 </form>
 <script src="webjars/jquery/1.11.1/jquery.min.js"></script>

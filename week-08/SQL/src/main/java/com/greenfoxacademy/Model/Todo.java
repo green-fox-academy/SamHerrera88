@@ -6,22 +6,28 @@ import javax.persistence.Id;
 
 @Entity
 public class Todo {
-    public Todo() {
-        this.title = title;
-    }
-public Todo(String title, Boolean done, Boolean urgent){
-        this.title = title;
-        this.done = done;
-        this.urgent = urgent;
 
-}
     @Id
     @GeneratedValue
     long id;
 
     String title;
-    boolean urgent = true;
-    boolean done = false;
+    boolean urgent;
+    boolean done;
+
+    public Todo(String title) {
+        this.title = title;
+        this.urgent = false;
+        this.done = false;
+    }
+    public Todo(String title, Boolean done, Boolean urgent) {
+        this.id = id;
+        this.title = title;
+        this.done = done;
+        this.urgent = urgent;
+    }
+
+    public Todo (){}
 
     public long getId() {
         return id;

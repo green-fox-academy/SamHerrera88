@@ -39,7 +39,7 @@
 <body>
 
 <h1 align="center">ToDo for the day:</h1>
-<h2 th:align="center"><a th:href="@{/add}">Add new todo</a></h2>
+<h2 align="center"><a href="/add">Add new todo</a></h2>
 
 <p></p>
 <table class="table table-striped">
@@ -63,14 +63,14 @@
 
             <td align="center">
                 <div>
-                <form class="button" action="#" th:href="@{/delete/{id}|}" method="PUT">
-                    <input class="btn btn-warning" th:value="Remove" type="submit"/>
+                <form class="button" action="/{id}/delete" method="Delete">
+                    <input name="id" class="btn btn-warning" th:value="Remove" type="submit"/>
                 </form>
                 </div>
             </td>
 
             <td align="center">
-                <form class="button" action="#" th:href="@{/edit/{id}/|}" method="PUT">
+                <form class="button" th:action="'/' + ${todo.getId()} + '/edit'">
                     <input class="btn btn-info" th:value="Update" type="submit"/>
                 </form>
             </td>

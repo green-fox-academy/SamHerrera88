@@ -18,19 +18,19 @@
 </head>
 <body>
 <h1 style="animation:ease-in-out">Add New ToDo</h1>
-<form action="#" th:action="@{create}" th:object="${newTodo}" th:method="POST">
+<!--<form action="#" th:action="@{/add}" th:object="${newTodo}" th:method="POST">-->
     <div>
         <p>
-        <form class="button" action="#" th:action="@{/add}" th:method="POST">
-        <input type="text">
-        <input class="btn btn-primary" th:value="Save" type="submit"/>
+        <form class="button" action="/" method="POST">
+        <input type="text" name="newTodo">
+        <input class="btn btn-primary" value="Save" type="submit"/>
     </form>
 
 
 
 
     </div>
-</form>
+<!--</form>-->
 <script src="webjars/jquery/1.11.1/jquery.min.js"></script>
 <script src="webjars/bootstrap/3.3.7-1/js/bootstrap.min.js"></script>
 

@@ -32,12 +32,12 @@ public class TodoService implements ToDoServiceImpl {
     }
 
     @Override
-    public void removeById(Long id) {
+    public void removeById(long id) {
         todoRepo.deleteById(id);
     }
 
     @Override
-    public Optional<Todo> getTodoById(Long id) {
+    public Optional<Todo> getTodoById(long id) {
         return todoRepo.findById(id);
     }
 

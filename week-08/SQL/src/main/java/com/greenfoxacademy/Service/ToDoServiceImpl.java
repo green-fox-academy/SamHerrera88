@@ -11,9 +11,9 @@ public interface ToDoServiceImpl {
 
     void saveTodo(Todo todo);
 
-    void removeById(Long id);
+    void removeById(long id);
 
-    Optional<Todo> getTodoById(Long id);
+    Optional<Todo> getTodoById(long id);
 
     void updateTodo(Todo todo);
 }
