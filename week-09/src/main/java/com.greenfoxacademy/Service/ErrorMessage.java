@@ -1,7 +1,7 @@
 package com.greenfoxacademy.Service;
 
 public class ErrorMessage {
-   String error;
+    String error;
 
     public String getError() {
         return error;

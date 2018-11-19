@@ -4,7 +4,7 @@ public class Greeter {
 
     private String welcome_message;
 
-    public Greeter(){
+    public Greeter() {
 
     }
 
@@ -21,5 +21,5 @@ public class Greeter {
     }
 
 
-    }
+}
 
