@@ -1,13 +1,8 @@
 package com.greenfoxacademy.Controller;
 
-import com.greenfoxacademy.Model.AppendA;
-import com.greenfoxacademy.Model.DoublingJS;
-import com.greenfoxacademy.Model.Greeter;
+import com.greenfoxacademy.Model.*;
 import com.greenfoxacademy.Service.ErrorMessage;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PathVariable;
-import org.springframework.web.bind.annotation.RequestParam;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 @RestController
 public class WebController {
@@ -35,5 +30,15 @@ public class WebController {
     public Object getGreeting(@PathVariable String appendable){
         return new AppendA(appendable);
     }
+
+    @PostMapping("/dountil/{what}")
+    public Object doUntil(@PathVariable(value ="what") String what,@RequestBody DoUntilValue doUntilValue){
+        if (doUntilValue.getUntil()==0){
+            return new ErrorMessage("Parameter is required");
+        } else {
+            return new DoUntilSumAndFactor(what, doUntilValue.getUntil());
+        }
+    }
 }
+
 

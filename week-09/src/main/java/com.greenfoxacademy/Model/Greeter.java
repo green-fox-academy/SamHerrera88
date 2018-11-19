@@ -9,7 +9,7 @@ public class Greeter {
     }
 
     public Greeter(String name, String title) {
-        this.welcome_message = "Well, hello there " + name + ", my dear " + title + "!";
+        this.welcome_message = "Oh, hi there " + name + ", my dear " + title + "!";
     }
 
     public String getWelcome_message() {
