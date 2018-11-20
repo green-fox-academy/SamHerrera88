@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a833b3a-82d6-4e5c-aa43-86c2dd511520" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilSumAndFactor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/com/greenfoxacademy/WebControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Controller/WebController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Controller/WebController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/classes/com/greenfoxacademy/Service/ErrorMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/greenfoxacademy/Service/ErrorMessage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week-09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week-09.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,7 +46,7 @@
         <counts>
           <entry key="gradle" value="1" />
           <entry key="html" value="2" />
-          <entry key="java" value="15" />
+          <entry key="java" value="21" />
           <entry key="js" value="1" />
           <entry key="json" value="1" />
           <entry key="properties" value="2" />
@@ -56,7 +56,7 @@
         <counts>
           <entry key="Groovy" value="1" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="15" />
+          <entry key="JAVA" value="21" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="Properties" value="2" />
@@ -64,13 +64,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1887" />
+          <entry key="java" value="2414" />
           <entry key="json" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1887" />
+          <entry key="JAVA" value="2414" />
           <entry key="JSON" value="11" />
         </counts>
       </usages-collector>
@@ -92,11 +92,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Controller/WebController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+            <state relative-caret-position="505">
+              <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#1286#1287#0" expanded="true" />
@@ -106,17 +106,13 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilValue.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/com/greenfoxacademy/WebControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+            <state relative-caret-position="165">
+              <caret line="49" column="58" lean-forward="true" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
               <folding>
-                <element signature="e#200#201#0" expanded="true" />
-                <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#296#297#0" expanded="true" />
-                <element signature="e#330#331#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -125,13 +121,25 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilSumAndFactor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="-204">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding>
                 <element signature="e#333#334#0" expanded="true" />
                 <element signature="e#362#363#0" expanded="true" />
                 <element signature="e#403#404#0" expanded="true" />
                 <element signature="e#439#440#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilValue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+              <folding>
+                <element signature="e#193#194#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,7 +165,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
-              <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
+              <caret line="11" column="83" lean-forward="true" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
               <folding>
                 <element signature="e#266#267#0" expanded="true" />
                 <element signature="e#304#305#0" expanded="true" />
@@ -171,9 +179,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
+            <state relative-caret-position="102">
+              <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
               <folding>
+                <element signature="e#123#124#0" expanded="true" />
+                <element signature="e#156#157#0" expanded="true" />
+                <element signature="e#113#114#0" expanded="true" />
                 <element signature="e#141#142#0" expanded="true" />
                 <element signature="e#183#184#0" expanded="true" />
                 <element signature="e#217#218#0" expanded="true" />
@@ -185,7 +196,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoublingJS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="357">
               <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
               <folding>
                 <element signature="e#362#363#0" expanded="true" />
@@ -211,6 +222,15 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>webc</find>
+    </findStrings>
+    <dirStrings>
+      <dir>C:\Users\samhe\GreenFox1\SamHerrera88\week-09\src\test\com\greenfoxacademy</dir>
+      <dir>C:\Users\samhe\GreenFox1\SamHerrera88\week-09</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -552,12 +572,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/DoublingService.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/DoublingServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoublingJS.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/AppendA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilValue.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Controller/WebController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilSumAndFactor.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java" />
+        <option value="$PROJECT_DIR$/src/test/WebControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/greenfoxacademy/WebControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Controller/WebController.java" />
+        <option value="$PROJECT_DIR$/src/test/com/greenfoxacademy/WebControllerTest.java" />
       </list>
     </option>
   </component>
@@ -618,39 +641,20 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.greenfoxacademy" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="week-09" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week-09" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.greenfoxacademy" type="462c0819:PsiDirectoryNode" />
               <item name="Model" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="week-09" type="b2602c69:ProjectViewProjectNode" />
               <item name="week-09" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="week-09" type="b2602c69:ProjectViewProjectNode" />
               <item name="week-09" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="week-09" type="b2602c69:ProjectViewProjectNode" />
-              <item name="week-09" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="greenfoxacademy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -668,15 +672,21 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542644994323" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542727704952" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../week-02/day-01/Exercises/src/Doubling.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="com.greenfoxacademy.Service" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.greenfoxacademy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\samhe\GreenFox1\SamHerrera88\week-09\src\main\java" />
@@ -694,7 +704,63 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.WebControllerTest.greeterTest">
+    <configuration name="WebControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week-09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.greenfoxacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.greenfoxacademy" />
+      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.WebControllerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebControllerTest.doublingTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week-09" />
+      <option name="PACKAGE_NAME" value="com.greenfoxacademy" />
+      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.WebControllerTest" />
+      <option name="METHOD_NAME" value="doublingTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebControllerTest.doublingWrongTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week-09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.greenfoxacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.greenfoxacademy" />
+      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.WebControllerTest" />
+      <option name="METHOD_NAME" value="doublingWrongTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebControllerTest.greeterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="week-09" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.greenfoxacademy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.greenfoxacademy" />
+      <option name="MAIN_CLASS_NAME" value="com.greenfoxacademy.WebControllerTest" />
+      <option name="METHOD_NAME" value="greeterTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainFrontend" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="week-09" />
       <extension name="coverage">
@@ -708,9 +774,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Spring Boot.MainFrontend" />
+      <item itemvalue="JUnit.WebControllerTest.doublingTest" />
+      <item itemvalue="JUnit.WebControllerTest" />
+      <item itemvalue="JUnit.WebControllerTest.doublingWrongTest" />
+      <item itemvalue="JUnit.WebControllerTest.greeterTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.WebControllerTest.greeterTest" />
         <item itemvalue="Spring Boot.MainFrontend" />
+        <item itemvalue="JUnit.WebControllerTest.doublingWrongTest" />
+        <item itemvalue="JUnit.WebControllerTest" />
+        <item itemvalue="JUnit.WebControllerTest.doublingTest" />
       </list>
     </recent_temporary>
   </component>
@@ -724,15 +801,47 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542621673487</updated>
-      <workItem from="1542621682206" duration="19640000" />
+      <workItem from="1542621682206" duration="32768000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="WebControllerTest_doublingWrongTest - 2018.11.20 at 08h 36m 08s.xml">
+      <configuration name="WebControllerTest.doublingWrongTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebControllerTest_doublingWrongTest - 2018.11.20 at 08h 56m 45s.xml">
+      <configuration name="WebControllerTest.doublingWrongTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 09h 49m 40s.xml">
+      <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 10h 03m 04s.xml">
+      <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 10h 05m 59s.xml">
+      <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 10h 13m 25s.xml">
+      <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 10h 18m 28s.xml">
+      <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 10h 20m 13s.xml">
+      <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 10h 22m 26s.xml">
+      <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 10h 23m 50s.xml">
+      <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19640000" />
+    <option name="totallyTimeSpent" value="32768000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="895" extended-state="7" />
+    <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Designer" />
@@ -748,13 +857,13 @@
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Terminal" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32941177" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.4392157" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3398693" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -891,6 +1000,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.2.RELEASE/7f8ba1aa5c6cc053e1ac6d68ab677e08b0870bc3/spring-test-5.1.2.RELEASE-sources.jar!/org/springframework/test/web/servlet/result/ContentResultMatchers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="56" selection-start-line="56" selection-end-line="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.2.RELEASE/7f8ba1aa5c6cc053e1ac6d68ab677e08b0870bc3/spring-test-5.1.2.RELEASE-sources.jar!/org/springframework/test/web/servlet/result/MockMvcResultMatchers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="176" selection-start-line="176" selection-end-line="176" />
+          <folding>
+            <element signature="e#5839#5840#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-test/5.1.2.RELEASE/7f8ba1aa5c6cc053e1ac6d68ab677e08b0870bc3/spring-test-5.1.2.RELEASE-sources.jar!/org/springframework/test/util/XmlExpectationsHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/greenfoxacademy/WebControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="18" column="28" lean-forward="true" selection-end-line="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/MainFrontend.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
@@ -903,21 +1046,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="30" selection-start-line="5" selection-start-column="30" selection-end-line="5" selection-end-column="30" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoublingJS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="357">
           <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding>
             <element signature="e#362#363#0" expanded="true" />
@@ -928,6 +1059,21 @@
             <element signature="e#592#593#0" expanded="true" />
             <element signature="e#637#638#0" expanded="true" />
             <element signature="e#673#674#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -946,37 +1092,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="58" selection-start-line="11" selection-start-column="58" selection-end-line="11" selection-end-column="58" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilValue.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
-          <caret line="9" column="36" lean-forward="true" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
           <folding>
-            <element signature="e#200#201#0" expanded="true" />
-            <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#296#297#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilSumAndFactor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="-204">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
           <folding>
             <element signature="e#333#334#0" expanded="true" />
             <element signature="e#362#363#0" expanded="true" />
@@ -988,8 +1117,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Controller/WebController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="33" column="4" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+        <state relative-caret-position="505">
+          <caret line="38" column="49" lean-forward="true" selection-start-line="38" selection-start-column="49" selection-end-line="38" selection-end-column="49" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#1286#1287#0" expanded="true" />
@@ -998,12 +1127,107 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="83" lean-forward="true" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
+          <folding>
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#420#421#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/com/greenfoxacademy/WebControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="49" column="58" lean-forward="true" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>week-09</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Gradle: ch.qos.logback:logback-classic:1.2.3</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
