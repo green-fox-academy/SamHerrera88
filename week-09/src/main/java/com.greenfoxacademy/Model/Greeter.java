@@ -2,7 +2,7 @@ package com.greenfoxacademy.Model;
 
 public class Greeter {
 
-    private String welcome_message;
+    String welcome_message;
 
     public Greeter() {
 

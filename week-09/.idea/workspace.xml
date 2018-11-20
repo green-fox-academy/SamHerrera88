@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a833b3a-82d6-4e5c-aa43-86c2dd511520" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/com/greenfoxacademy/WebControllerTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/classes/com/greenfoxacademy/Service/ErrorMessage.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/classes/com/greenfoxacademy/Service/ErrorMessage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/week-09.iml" beforeDir="false" afterPath="$PROJECT_DIR$/week-09.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/classes/com/greenfoxacademy/WebControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/classes/com/greenfoxacademy/WebControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -46,7 +44,7 @@
         <counts>
           <entry key="gradle" value="1" />
           <entry key="html" value="2" />
-          <entry key="java" value="21" />
+          <entry key="java" value="22" />
           <entry key="js" value="1" />
           <entry key="json" value="1" />
           <entry key="properties" value="2" />
@@ -56,7 +54,7 @@
         <counts>
           <entry key="Groovy" value="1" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="21" />
+          <entry key="JAVA" value="22" />
           <entry key="JSON" value="1" />
           <entry key="JavaScript" value="1" />
           <entry key="Properties" value="2" />
@@ -64,13 +62,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2414" />
+          <entry key="java" value="2453" />
           <entry key="json" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2414" />
+          <entry key="JAVA" value="2453" />
           <entry key="JSON" value="11" />
         </counts>
       </usages-collector>
@@ -109,8 +107,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/com/greenfoxacademy/WebControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="49" column="58" lean-forward="true" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+            <state relative-caret-position="301">
+              <caret line="57" column="78" selection-start-line="57" selection-start-column="78" selection-end-line="57" selection-end-column="78" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -121,7 +119,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilSumAndFactor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-204">
+            <state relative-caret-position="34">
               <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
               <folding>
                 <element signature="e#333#334#0" expanded="true" />
@@ -162,21 +160,6 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="83" lean-forward="true" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
-              <folding>
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#304#305#0" expanded="true" />
-                <element signature="e#366#367#0" expanded="true" />
-                <element signature="e#420#421#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
@@ -189,6 +172,15 @@
                 <element signature="e#183#184#0" expanded="true" />
                 <element signature="e#217#218#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -575,12 +567,12 @@
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/AppendA.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilValue.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilSumAndFactor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java" />
         <option value="$PROJECT_DIR$/src/test/WebControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/greenfoxacademy/WebControllerTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java" />
         <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Controller/WebController.java" />
         <option value="$PROJECT_DIR$/src/test/com/greenfoxacademy/WebControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java" />
       </list>
     </option>
   </component>
@@ -672,7 +664,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542727704952" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542730000036" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../week-02/day-01/Exercises/src/Doubling.java" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -801,14 +793,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1542621673487</updated>
-      <workItem from="1542621682206" duration="32768000" />
+      <workItem from="1542621682206" duration="34719000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="WebControllerTest_doublingWrongTest - 2018.11.20 at 08h 36m 08s.xml">
-      <configuration name="WebControllerTest.doublingWrongTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="WebControllerTest_doublingWrongTest - 2018.11.20 at 08h 56m 45s.xml">
       <configuration name="WebControllerTest.doublingWrongTest" configurationId="JUnit" />
     </history-entry>
@@ -836,9 +825,12 @@
     <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 10h 23m 50s.xml">
       <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="WebControllerTest_greeterTest - 2018.11.20 at 10h 33m 44s.xml">
+      <configuration name="WebControllerTest.greeterTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32768000" />
+    <option name="totallyTimeSpent" value="34719000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
@@ -851,7 +843,7 @@
       <window_info id="Capture Tool" />
       <window_info id="Web" side_tool="true" />
       <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494331" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.2494331" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" weight="0.32941177" />
       <window_info anchor="bottom" id="Spring" />
@@ -893,15 +885,15 @@
       <window_info id="Structure" order="8" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Build" order="0" weight="0.32941177" />
       <window_info anchor="bottom" id="Spring" order="1" />
-      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="2" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="4" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.32941177" />
       <window_info anchor="bottom" id="Java Enterprise" order="5" />
       <window_info anchor="bottom" id="Database Changes" order="6" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="8" />
-      <window_info anchor="bottom" id="Find" order="9" />
-      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.4392157" />
+      <window_info anchor="bottom" id="Find" order="9" weight="0.32941177" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.3398693" />
       <window_info anchor="bottom" id="Debug" order="11" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
@@ -913,10 +905,11 @@
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Palette&#9;" order="5" />
       <window_info anchor="right" id="Theme Preview" order="6" />
-      <window_info anchor="right" id="Bean Validation" order="7" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="8" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="9" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="10" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="7" side_tool="true" weight="0.32955405" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="9" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="10" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="11" weight="0.25" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1063,21 +1056,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-          <folding>
-            <element signature="e#123#124#0" expanded="true" />
-            <element signature="e#156#157#0" expanded="true" />
-            <element signature="e#113#114#0" expanded="true" />
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-            <element signature="e#217#218#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/AppendA.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -1102,19 +1080,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilSumAndFactor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204">
-          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-          <folding>
-            <element signature="e#333#334#0" expanded="true" />
-            <element signature="e#362#363#0" expanded="true" />
-            <element signature="e#403#404#0" expanded="true" />
-            <element signature="e#439#440#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Controller/WebController.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="505">
@@ -1127,23 +1092,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Service/ErrorMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
+          <folding>
+            <element signature="e#123#124#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#113#114#0" expanded="true" />
+            <element signature="e#141#142#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+            <element signature="e#217#218#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/DoUntilSumAndFactor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+          <folding>
+            <element signature="e#333#334#0" expanded="true" />
+            <element signature="e#362#363#0" expanded="true" />
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#439#440#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com.greenfoxacademy/Model/Greeter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="83" lean-forward="true" selection-start-line="11" selection-start-column="83" selection-end-line="11" selection-end-column="83" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#304#305#0" expanded="true" />
-            <element signature="e#366#367#0" expanded="true" />
-            <element signature="e#420#421#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/com/greenfoxacademy/WebControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="49" column="58" lean-forward="true" selection-start-line="49" selection-start-column="58" selection-end-line="49" selection-end-column="58" />
+        <state relative-caret-position="301">
+          <caret line="57" column="78" selection-start-line="57" selection-start-column="78" selection-end-line="57" selection-end-column="78" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
